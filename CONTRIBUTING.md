@@ -1,0 +1,11 @@
+## How to contribute
+The cs2-game-tool project is an open-source utility designed to enhance the gaming experience for cs2 players and developers. To contribute to this project, you can start by reviewing the existing issues and pull requests on the repository. We encourage you to participate in discussions, share your ideas, and provide feedback on the project's direction. If you're interested in contributing code, please ensure you have the necessary skills and knowledge of the technologies used in the project, including Python, DirectX, and Windows API.
+
+## Reporting issues
+If you encounter any issues while using the cs2-game-tool, please report them on the project's issue tracker. When reporting an issue, provide as much detail as possible, including steps to reproduce the problem, error messages, and any relevant system information. This will help the maintainers to identify and fix the issue quickly. The cs2-game-tool community relies on your input to improve the tool and ensure it remains a valuable resource for the cs2 gaming community.
+
+## Code style
+The cs2-game-tool project follows standard Python coding conventions. When contributing code, please ensure your changes adhere to these conventions. This includes using consistent indentation, following naming conventions, and writing clear and concise docstrings. By maintaining a consistent code style, we can ensure the project remains readable and easy to maintain.
+
+## Pull requests
+To submit changes to the cs2-game-tool project, create a pull request on the repository at https://github.com/Dimensioneisense/cs2-game-tool. When creating a pull request, provide a clear description of the changes, including any relevant issue numbers or discussions. The maintainers will review your changes and provide feedback before merging them into the project. By contributing to the cs2-game-tool, you'll be helping to improve the gaming experience for cs2 players and developers, and we appreciate your involvement in the project.
