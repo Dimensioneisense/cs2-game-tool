@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Dimensioneisense.github.io/cs2-game-tool/sitemap.xml
