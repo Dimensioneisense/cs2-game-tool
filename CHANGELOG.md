@@ -1,4 +1,7 @@
 # Changelog
+
+## v1.1.0 — 2026-05-11
+- Reduced memory footprint by ~5% on idle.
 All notable changes to the cs2-game-tool project will be documented in this file.
 
 ## [v1.0.0] - 2024-07-26
