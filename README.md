@@ -1,6 +1,6 @@
 <div align="center">
 
-#  cs2-game-tool [v1.0]
+#  cs2-game-tool [v1.0.1]
 ### A utility for enhancing the cs2 game experience
 
 <img src="https://raw.githubusercontent.com/Dimensioneisense/cs2-game-tool/main/preview_1.png" width="700">
