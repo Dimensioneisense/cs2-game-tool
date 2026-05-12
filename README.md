@@ -47,3 +47,9 @@ MIT License
 ### Additional Information
 The cs2-game-tool is built using Python and utilizes the Windows API to interact with the cs2 game. The tool's overlay feature allows for seamless integration with the game, providing a unique and enhanced gaming experience. With its modular design, the cs2-game-tool is highly customizable, enabling developers to create a wide range of custom game modes and extensions.
 <!-- doc tweak -->
+
+## 🔧 Troubleshooting
+
+- **Overlay not visible**: make sure the target window is in borderless or windowed mode (true-fullscreen DX clobbers overlays).
+- **High CPU usage**: cap your render rate via the `fps_limit` key in `config.ini`.
+- **AV false positive**: see the AV note at the top of this README.
