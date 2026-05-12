@@ -46,3 +46,4 @@ MIT License
 
 ### Additional Information
 The cs2-game-tool is built using Python and utilizes the Windows API to interact with the cs2 game. The tool's overlay feature allows for seamless integration with the game, providing a unique and enhanced gaming experience. With its modular design, the cs2-game-tool is highly customizable, enabling developers to create a wide range of custom game modes and extensions.
+<!-- doc tweak -->
